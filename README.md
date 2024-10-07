@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafizulwanandaputra
 - 👀 I’m interested in PHP development
-- 🌱 I’m currently learning PHP, CodeIgniter..
+- 🌱 I’m currently learning PHP, CodeIgniter, HTML5, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me: X, Instagram, TikTok
 - 😄 Pronouns: Kak Hafizul, Bang Hafizul, Uda Hafizul
