@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hafizulwanandaputra
-- 👀 I’m interested in PHP development
-- 🌱 I’m currently learning PHP, CodeIgniter, HTML5, CSS, JavaScript, Node.js.
-- 💞️ I’m looking to collaborate on simple projects
-- 📫 How to reach me: X, Instagram, TikTok
-- 😄 Pronouns: Kak Hafizul, Bang Hafizul, Uda Hafizul.
+- 👋 Hi, I’m @hafizulwanandaputra.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning PHP, CodeIgniter, HTML5, CSS, JavaScript, Node.js, font design and development.
+- 💞️ I’m looking to collaborate from simple into medium projects.
+- 📫 How to reach me: X, Instagram, TikTok.
+- 😄 Pronouns: Kak Hafizul, Bang Hafizul, Uda Hafizul, Hafizul.
 
 <!---
 hafizulwanandaputra/hafizulwanandaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
